@@ -1,0 +1,8 @@
+
+# API Keys und Secrets
+.env
+config.json
+CLAUDE.md
+
+# Implementation plans (dev-only, not for production)
+**/docs/plans/
